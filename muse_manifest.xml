@@ -1,0 +1,53 @@
+<manifest alg="2" build="314" opt="false" iceEnabled="true">
+  <folder name="assets">
+    <file name="how-do-pain-relievers-work.webm" crc="88443410" mt="1420034221000"/>
+    <file name="how-do-pain-relievers-work.mp4" crc="98190799" mt="1420034473000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="417434784"/>
+    <file name="index.css" crc="108959164" ref="index"/>
+    <file name="about-us.css" crc="4177039914" ref="about-us"/>
+    <file name="contact-us.css" crc="4241188983" ref="contact-us"/>
+    <file name="shopping-cart.css" crc="410322687" ref="shopping-cart"/>
+    <file name="catalog.css" crc="260039982" ref="catalog"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:catalog:shopping-cart:about-us:contact-us"/>
+    <file name="museutils.js" crc="3865766194" ref="index:catalog:shopping-cart:about-us:contact-us"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="index:catalog:shopping-cart:about-us:contact-us"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:catalog:shopping-cart:about-us:contact-us"/>
+    <file name="pie.js" crc="3827607177" ref="index:catalog"/>
+    <file name="webpro.js" crc="3903299128" ref="index:catalog:contact-us"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="index:catalog"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="index:catalog"/>
+    <file name="touchswipe.js" crc="4156838003" ref="index:catalog"/>
+    <file name="form_check.php" crc="4257733307" ref="contact-us"/>
+    <file name="form_throttle.php" crc="3966014863" ref="contact-us"/>
+    <file name="form-u1490.php" crc="3951957408" ref="contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="logofin.jpg" crc="4124897541" ref="index:catalog:shopping-cart:about-us:contact-us"/>
+    <file name="minimalist_web_desigsns_19mixd.jpg" crc="426993023" ref="index"/>
+    <file name="faces2.png" crc="416992633" ref="index"/>
+    <file name="test-tube-152851_640.png" crc="3942893134" ref="index"/>
+    <file name="flask.png" crc="211452545" ref="index"/>
+    <file name="science_atom.png" crc="169093994" ref="index"/>
+    <file name="catalog.png" crc="3949369652" ref="catalog"/>
+    <file name="ibuprofen-3544.png" crc="431902685" ref="catalog"/>
+    <file name="blank.gif" crc="4208392903" ref="catalog"/>
+    <file name="januvia.jpg" crc="4163743359" ref="catalog"/>
+    <file name="paracetamol-from-xtal-3d-balls.png" crc="4183431982" ref="catalog"/>
+    <file name="sitagliptin_3d.png" crc="469778941" ref="catalog"/>
+    <file name="loading.gif" crc="3815509949" ref="catalog"/>
+    <file name="line.png" crc="18521250" ref="catalog"/>
+    <file name="u1496-17.png" crc="440089133" ref="contact-us"/>
+    <file name="u1496-17-r.png" crc="292912033" ref="contact-us"/>
+    <file name="u1496-17-m.png" crc="261216649" ref="contact-us"/>
+    <file name="u1496-17-fs.png" crc="4001031594" ref="contact-us"/>
+  </folder>
+  <file name="index.html" crc="380310290" mt="1420038026069" redirect="true"/>
+  <file name="catalog.html" crc="4276625383" mt="1420033937718" redirect="true"/>
+  <file name="shopping-cart.html" crc="329796751" mt="1420037010936" redirect="true"/>
+  <file name="about-us.html" crc="144243486" mt="1420037591997" redirect="true"/>
+  <file name="contact-us.html" crc="3851327314" mt="1420037553293" redirect="true"/>
+</manifest>

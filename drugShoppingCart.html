@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Drug Shopping Cart</title>
+
+<script type="text/javascript" src="drugShoppingCart.js"></script>
+
+</head>
+
+<body>
+
+<h1 style="text-align:center">Drug shopping cart</h1>
+
+<h2 style="text-align:center">Please enter your age & weight then choose what medicaments you want to buy to calculte the total price.</h2>
+
+<div style="text-align:center">
+<input type="text" value="Age" id="getAge" />
+<input type="text" value="Weight" id="getWeight" /> 
+</div>
+
+<br />
+<div style="border:groove; border-color:#006; background-color:rgb(0,51,153); color:rgb(255,255,255)">
+<table cellspacing="50" id="shopTable" align="center">
+<th>Drug Name</th><th>Price</th><th>Amount</th><th>Allergic</th><th>Amount of drug per item</th><th>Daily dose</th>
+</table>
+<br />
+<input type="button" value="Add a new item" onClick="addTable()">  &nbsp;&nbsp;<button onclick="calculate()">Calculate</button>
+&nbsp;&nbsp;&nbsp;&nbsp;TOTAL:&nbsp;<input id="Total" type="text" name="total" value="totalprice" readonly="readonly" />
+<br />
+
+</div>
+<br />
+
+
+
+
+
+</body>
+</html>
